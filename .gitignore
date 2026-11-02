@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# Generated datasets
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Test artifacts
+.pytest_cache/
